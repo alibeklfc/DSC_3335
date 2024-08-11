@@ -1,50 +1,52 @@
-# DSC 4320 - Data Visualization
+# DSC 3335 - Database Design and Applications for Data Science
 
 ```
-Semester: Spring 2024 
-Time: Mondays, Wednesdays, 2:30 pm - 3:45 pm from 01/16/2024 to 05/09/2024
-Location: Sid Richardson Building, Room 225
+Semester: Fall 2024 
+Time: Tuesday, Thursday, 8:00 am - 9:15 am 
+Location: Cashion Academic Center, Room C317
 ```
-
-## Course Website:
-[https://teachingchen.github.io/DSC_4320/](https://teachingchen.github.io/DSC_4320/)
 
 ## Instructor:
 Alibek Zhakubayev\
 Department of Computer Science, Baylor University\
 Office: Hankamer 330.15
 * Email: alibek_zhakubayev1@baylor.edu 
-* Office Hours: Thursday 3:30 pm - 5:00 pm (Hankamer 330.15 OR via Microsoft Teams, **By appointment**)
+* Office Hours: TBD (Hankamer 330.15 OR via Microsoft Teams, **By appointment**)
 * Homepage: [https://alibeklfc.github.io/](https://alibeklfc.github.io/)
 
 ## Teaching Assistant:
-Yitong Chen\
-Department of Computer Science, Baylor University
-* Email: yitong_chen1@baylor.edu (Important: When emailing, please add **[DSC 4320]** at the beginning of the subject line)
-* Duties: Gradings (Homeworks, Quizzes, Exams)
+None
 
 ## Course Description:
-As the world continues to be more connected through both physical and virtual means, the amount of information that we are bombarded with as people has increased significantly. This course will cover the science and art behind creating readable graphics called Data Visualization. We will explore the design, techniques, and algorithms used to create effective visualizations based on principles from graphic design, visual art, perceptual psychology, and cognitive science. Students will also learn to evaluate the effectiveness of visualization designs and think critically about each design decision, such as visual encoding.
+Analysis of the use of appropriate data structures to hold and process large amounts of data. Application of the data structures using data science and machine learning algorithms and discussion of the algorithms' runtimes.
 
 ## Prerequisites:
-CSI 2300, Introduction to Data Science.
+CSI 1402, Introduction to Programming II.
 
 ## Textbook and Learning Materials:
-There is no required textbook, but the following books may serve as useful references for different parts of the course.
-* Claus Wilke. "Fundamentals of Data Visualization", ISBN-13: 978-1492031086, [link](https://www.amazon.com/Fundamentals-Data-Visualization-Informative-Compelling/dp/1492031089/ref=asc_df_1492031089/?tag=hyprod-20&linkCode=df0&hvadid=343974906210&hvpos=&hvnetw=g&hvrand=561473052996401400&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027497&hvtargid=pla-608643852713&psc=1&mcid=10e0405aa6f13596a403d0f54f578323&tag=&ref=&adgrpid=69543897272&hvpone=&hvptwo=&hvadid=343974906210&hvpos=&hvnetw=g&hvrand=561473052996401400&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027497&hvtargid=pla-608643852713&gclid=Cj0KCQiA7OqrBhD9ARIsAK3UXh1aU3iz67Eoi37GSjgJTavSRYni4rkukPtHG4MZbh7yNt3_UzMeA3UaAtd4EALw_wcB)
-* Tamara Munzner. "Visualization analysis and design (AK Peters visualization series)", ISBN-13: 978-1466508910, [link](https://www.amazon.com/Visualization-Analysis-Design-AK-Peters/dp/1466508914)
-* Colin Ware. "Visual thinking for design (Morgan Kaufmann series in interactive technologies)", ISBN-13: 9780961392147, [link](https://www.amazon.com/Visual-Thinking-Kaufmann-Interactive-Technologies/dp/0123708966)
-* Edward R. Tufte. "The Visual Display of Quantitative Information 2nd (second) edition" [link](https://www.amazon.com/gp/product/0863547125)
+* Silberschatz, Korth and Sudarshan. "Database System Concepts", ISBN: 978-0078022159, [link](https://www.amazon.com/Database-Concepts-Abraham-Silberschatz-Professor/dp/0078022150)
+* Donahoo and Speegle. "SQL: Practical Guide for Developers (The Morgan Kaufmann Series in Data Management Systems)", ISBN-13: 978-0122205316, [link](https://www.amazon.com/SQL-Practical-Guide-Developers-Guides-ebook/dp/B000V79MVU)
+* Zybooks, [link](https://learn.zybooks.com/zybook/BAYLORCSI3335DSC3335ZhakubayevFall2024)
+
+
+##Zybooks 
+
+1. Click any zyBooks assignment link in your learning management system
+(Do not go to the zyBooks website and create a new account)
+2. Subscribe
+   
+A subscription is $89. Students may begin subscribing on Aug 12, 2024 and the cutoff to subscribe is Dec 04, 2024. Subscriptions will last until Jan 01, 2025.
+
 
 ## Requirements and Grading: 
 This course is A-F graded, and the grades are determined based on graded assignments:
-* Exams: 25%
-* Final Project: 25%
-* Homework Assignments: 25%
-* Quizzes: 15%
-  - Randomly given in class.
+* zyBooks Reading: 10%
+* Assignments: 15%
+* Chapter End Exams: 15%
+* Midterms: 30%
+* Final Exam: 20%
 * Attendance: 10%
-  - Class attendance is required. Refer to [here](https://rb.gy/6alrf).
+  - Class attendance is required. Refer to [here](https://catalog.baylor.edu/school-law/academic-regulations/).
 
 Your final grade will be based on a scale of 100 points:
 
@@ -60,22 +62,20 @@ Homeworks are due by midnight of the due date and are submitted on Canvas. Assig
 
 No makeup exams and quizzes will be given. 
 
-## Tentative Course Outline:
+## Course Outline:
 
-| Lectures  | Topics                                     	                        |
-|---------	|---------------------------------------------------------------------|
-| 1       	| Course Introduction                        	                        |
-| 2       	| Review of Python and Data Mapping                                   |
-| 3       	| Data Types, Basic Visualization, and Taxonomy                       | 
-| 4       	| Visualization with Matplotlib, Seaborn, and Animated Transitions    | 
-| 5       	| Design Principles                                                   | 
-| 6       	| Color Theory and Data Wrangling with Pandas     	                  |  
-| 7       	| Perceptual and Cognitive Psychology in Visualization                |    
-| 8       	| Introduction to Machine Learning Models                             |                  
-| 9       	| Machine Learning Visualization                                      |                       
-| 10       	| High Dimensional Visualizations and Other Visualization Tools      	|       
-| 11       	| Time Series and Multivariate Data Visualization      	              |    
-| 12       	| Hierarchical Visualizations and Graph Representations      	        |    
+1. Introduction to Databases
+2. Relational Databases
+3. Complex Queries
+4. Database Design
+5. Data Storage
+6. Transaction Management
+7. Database Architecture
+8. Complex Data Types
+9. Database Programming
+10. NoSQL Databases
+11. Case Study
+12. Additional Material
 
 
 
