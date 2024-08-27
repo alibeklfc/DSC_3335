@@ -11,7 +11,7 @@ Alibek Zhakubayev\
 Department of Computer Science, Baylor University\
 Office: Hankamer 330.15
 * Email: alibek_zhakubayev1@baylor.edu 
-* Office Hours: TBD (Hankamer 330.15 OR via Microsoft Teams, **By appointment**)
+* Office Hours: Thurdsay, Friday 10am-12pm (Hankamer 330.15 OR via Microsoft Teams, **By appointment**)
 * Homepage: [https://alibeklfc.github.io/](https://alibeklfc.github.io/)
 
 ## Teaching Assistant:
@@ -29,7 +29,7 @@ CSI 1402, Introduction to Programming II.
 * Zybooks, [link](https://learn.zybooks.com/zybook/BAYLORCSI3335DSC3335ZhakubayevFall2024)
 
 
-##Zybooks 
+## Zybooks 
 
 1. Click any zyBooks assignment link in your learning management system
 (Do not go to the zyBooks website and create a new account)
@@ -40,7 +40,7 @@ A subscription is $89. Students may begin subscribing on Aug 12, 2024 and the cu
 
 ## Requirements and Grading: 
 This course is A-F graded, and the grades are determined based on graded assignments:
-* zyBooks Reading: 10%
+* zyBooks Reading and Labs: 10%
 * Assignments: 15%
 * Chapter End Exams: 15%
 * Midterms: 30%
@@ -59,8 +59,6 @@ Homeworks are due by midnight of the due date and are submitted on Canvas. Assig
 * 1 day late: 10 points deduction
 * 2 days late: 20 points deduction
 * 3 or more days late: 0 points awarded
-
-No makeup exams and quizzes will be given. 
 
 ## Course Outline:
 
