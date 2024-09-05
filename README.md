@@ -11,7 +11,7 @@ Alibek Zhakubayev\
 Department of Computer Science, Baylor University\
 Office: Hankamer 330.15
 * Email: alibek_zhakubayev1@baylor.edu 
-* Office Hours: Thurdsay, Friday 10am-12pm (Hankamer 330.15 OR via Microsoft Teams, **By appointment**)
+* Office Hours: Thurdsay 10am-12pm, Friday 11am-12pm (Hankamer 330.13 OR via Microsoft Teams, **By appointment**)
 * Homepage: [https://alibeklfc.github.io/](https://alibeklfc.github.io/)
 
 ## Teaching Assistant:
